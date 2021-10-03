@@ -39,6 +39,11 @@ body {
   margin: 10px 0;
 }
 
+
+.col a:hover {
+  font-weight: bold;
+}
+
 .col img{
     width: 200px;
     margin: 12px 0;
